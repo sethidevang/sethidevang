@@ -31,8 +31,8 @@
 <p align="center">
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/sethidevang?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
-<br/>
-  <h2 align="center">⚡ Current Stats ⚡</h2>
+<!-- <br/>
+  <h2 align="center">⚡ Current Stats ⚡</h2> -->
 <!-- <br> -->
 <!-- <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=sethidevang&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -43,8 +43,8 @@
 <!--   <br/> -->
 ----------------------
 
- ![DEVANG SETHI's Stats](https://github-readme-stats.vercel.app/api?username=sethidevang&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
- <br/>
+ <!--![DEVANG SETHI's Stats](https://github-readme-stats.vercel.app/api?username=sethidevang&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+ <br/> -->
 
 <!--
 ### Hi there 👋
